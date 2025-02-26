@@ -1,2 +1,5 @@
 /MeetingSecond/.vs/
 /MeetingSecond/bin/Debug/net8.0
+/MeetingSecond/*.sln
+/MeetingSecond/obj/Debug/net8.0/*.cache
+/MeetingSecond/obj/Debug/net8.0/*.BuildWithSkipAnalyzers
